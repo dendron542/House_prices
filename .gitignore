@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*.pkl
+model*.xz
+*.db
+*.bat
+house-prices-advanced-regression-techniques
